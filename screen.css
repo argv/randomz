@@ -1,0 +1,51 @@
+div.dokuwiki div.randomz table {
+    border: none;
+}
+
+div.dokuwiki div.randomz table td {
+    text-align: center;
+    vertical-align: middle;
+    border: none;
+}
+
+div.dokuwiki div.randomz table img.tn {
+    padding: 0.4em;
+    border: 1px solid __border__;
+    max-width: none;
+}
+
+div.dokuwiki div.randomz {
+    clear: left;
+}
+
+div.dokuwiki div.randomz img.tn {
+    vertical-align: middle;
+    padding: 0.4em;
+    border: 1px solid #000;
+}
+
+div.dokuwiki div.randomz_left {
+    float: left;
+}
+
+div.dokuwiki div.randomz div {
+    float: left;
+}
+
+div.dokuwiki div.randomz_right {
+    float: right;
+}
+
+div.dokuwiki div.randomz_center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.dokuwiki div.randomz_center {
+    text-align: center;
+}
+
+div.dokuwiki div.randomz div.randomz_pages {
+    float: none;
+    text-align: left;
+}

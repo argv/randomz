@@ -1,0 +1,5 @@
+base   randomz
+author a
+date   2013-11-10
+name   randomz plugin
+desc   minimalistic gallery fork... 
